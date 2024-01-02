@@ -8,7 +8,7 @@ Antes de começar, garanta que os seguintes sistemas estejam instalados em seu c
 
 - [git](https://git-scm.com/) (utilizei a versão `2.43.1`)
 - [Robot Framework](https://robotframework.org/?tab=1#getting-started) (utilizei a versão `6.1.1`)
-- [Python](https://www.python.org/downloads/) (utulizei a versão `3.10.1`)
+- [Python](https://www.python.org/downloads/) (utilizei a versão `3.10.1`)
 - [Visual Studio Code](https://code.visualstudio.com/) (estou usando a versão `1.85.1`) ou alguma outra IDE de sua preferência
 
 > **Obs.:** Recomendo utilizar as mesmas versões, ou versões mais recentes dos sistemas listados acima.

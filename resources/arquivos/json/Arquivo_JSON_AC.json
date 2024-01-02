@@ -1,0 +1,49 @@
+{ 
+"Contrato":{ 
+"NumeroContrato":"89456246126",
+"DataContrato":"20240102",
+},
+"Empresa":{
+"NomeEmpresa":"RIBEIRO",
+"EmailEmpresa":"ribeiro@ribeiro.com",
+"Documento":{
+"CnpjEmpresa":"82035794000193"
+},
+"Endereco":{
+"Municipio":{
+"CodMunicipioEmpresa":"120040"
+"NomeMunicipioEmpresa":"RIO BRANCO"
+},
+"LogradouroEmpresa":"AEROPORTO SILVEIRA",
+"NumeroImovelEmpresa":"2265",
+"BairroEmpresa":"RODRIGUES DO GALHO",
+"UfEmpresa":"AC",
+"CepEmpresa":"69900193"
+},
+"Telefone":{
+"NumeroEmpresa":"68926900012"
+}
+},
+"Devedor": {
+"NomeDevedor":"LUCAS GABRIEL AZEVEDO",
+"EmailDevedor":"lucasgabriel.azevedo@gmail.com",
+"Documento":{
+"CpfDevedor":"04382519624"
+},
+"Endereco":{
+"Municipio":{
+"CodMunicipioDevedor":"120040"
+"NomeMunicipioDevedor":"RIO BRANCO"
+},
+"LogradouroDevedor":"RODOVIA FARIAS",
+"NumeroImovelDevedor":"814",
+"BairroDevedor":"ROMENIA",
+"UfDevedor":"AC",
+"CepDevedor":"69911364"
+},
+"Telefone":{ 
+"NumeroDevedor":"68995307757"
+}
+},
+"Webhook":null
+}

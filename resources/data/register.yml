@@ -1,0 +1,226 @@
+REG:
+
+#### Dados default do contrato
+  nome_devedor: 'JOHN SAMPLE QUALIDADE'
+  endereco_devedor: 'RUA JOAQUIM'
+  compl_devedor: 'COMPL DEVEDOR'  
+  bairro_devedor: 'BAIRRO DEVEDOR'
+  
+####Empresa
+  
+##### DADOS FIXOS DE ESTADOS BRASILEIROS
+##AC
+  CdMunicipioCredor_AC: "120040"
+  DsCEPCredor_AC: "69900193"  
+  CdMunicipioDevedor_AC: "120040"
+  DsCEPDevedor_AC: "69911364"
+  NomeMunicipioEsperado_AC: "RIO BRANCO"
+  ComplMunicipio_AC: "${SPACE * 20}"
+
+##AL
+  CdMunicipioCredor_AL: "2704030"
+  DsCEPCredor_AL: "57035000"  
+  CdMunicipioDevedor_AL: "2704030"
+  DsCEPDevedor_AL: "57035220"
+  NomeMunicipioEsperado_AL: "MACEIO"
+  ComplMunicipio_AL: "${SPACE * 24}"
+
+##AM
+  CdMunicipioCredor_AM: "130260"
+  DsCEPCredor_AM: "69025070"  
+  CdMunicipioDevedor_AM: "130260"
+  DsCEPDevedor_AM: "69025025"
+  NomeMunicipioEsperado_AM: "MANAUS"
+  ComplMunicipio_AM: "${SPACE * 24}"
+
+##AP
+  CdMunicipioCredor_AP: "160030"
+  DsCEPCredor_AP: "68906450"  
+  CdMunicipioDevedor_AP: "160030"
+  DsCEPDevedor_AP: "68901901"
+  NomeMunicipioEsperado_AP: "MACAPA"
+  ComplMunicipio_AP: "${SPACE * 24}"
+  
+##BA
+  CdMunicipioCredor_BA: "292740"
+  DsCEPCredor_BA: "40020210"  
+  CdMunicipioDevedor_BA: "292740"
+  DsCEPDevedor_BA: "40020350"
+  NomeMunicipioEsperado_BA: "SALVADOR"
+  ComplMunicipio_BA: "${SPACE * 22}"
+ 
+##CE
+  CdMunicipioCredor_CE: "230440"
+  DsCEPCredor_CE: "68906450"  
+  CdMunicipioDevedor_CE: "230440"
+  DsCEPDevedor_CE: "68901901"
+  NomeMunicipioEsperado_CE: "FORTALEZA"
+  ComplMunicipio_CE: "${SPACE * 21}"
+
+##DF
+  CdMunicipioCredor_DF: "530010"
+  DsCEPCredor_DF: "70070110"  
+  CdMunicipioDevedor_DF: "230440"
+  DsCEPDevedor_DF: "530010"
+  NomeMunicipioEsperado_DF: "BRASILIA"
+  ComplMunicipio_DF: "${SPACE * 21}"
+
+##ES
+  CdMunicipioCredor_ES: "3205030"
+  DsCEPCredor_ES: "29015240"  
+  CdMunicipioDevedor_ES: "320530"
+  DsCEPDevedor_ES: "29043042"
+  NomeMunicipioEsperado_ES: "VITORIA"
+  ComplMunicipio_ES: "${SPACE * 23}"
+
+##GO
+  CdMunicipioCredor_GO: "520870"
+  DsCEPCredor_GO: "74001970"  
+  CdMunicipioDevedor_GO: "520870"
+  DsCEPDevedor_GO: "74063970"
+  NomeMunicipioEsperado_GO: "GOIANIA"
+  ComplMunicipio_GO: "${SPACE * 23}"
+
+##MA
+  CdMunicipioCredor_MA: "211130"
+  DsCEPCredor_MA: "65052040"  
+  CdMunicipioDevedor_MA: "211130"
+  DsCEPDevedor_MA: "65072270"
+  NomeMunicipioEsperado_MA: "SAO LUIS"
+  ComplMunicipio_MA: "${SPACE * 22}"
+  
+##MG
+  CdMunicipioCredor_MG: "310620"
+  DsCEPCredor_MG: "31310230"  
+  CdMunicipioDevedor_MG: "310620"
+  DsCEPDevedor_MG: "31110380"
+  NomeMunicipioEsperado_MG: "BELO HORIZONTE"
+  ComplMunicipio_MG: "${SPACE * 16}"
+
+##MS
+  CdMunicipioCredor_MS: "500270"
+  DsCEPCredor_MS: "79002100"  
+  CdMunicipioDevedor_MS: "500270"
+  DsCEPDevedor_MS: "79046136"
+  NomeMunicipioEsperado_MS: "CAMPO GRANDE"
+  ComplMunicipio_MS: "${SPACE * 18}"
+
+##MT
+  CdMunicipioCredor_MT: "510340"
+  DsCEPCredor_MT: "78005430"  
+  CdMunicipioDevedor_MT: "510340"
+  DsCEPDevedor_MT: "78005370"
+  NomeMunicipioEsperado_MT: "CUIABA"
+  ComplMunicipio_MT: "${SPACE * 24}"
+
+##PA
+  CdMunicipioCredor_PA: "150140"
+  DsCEPCredor_PA: "66073220"  
+  CdMunicipioDevedor_PA: "150140"
+  DsCEPDevedor_PA: "66050170"
+  NomeMunicipioEsperado_PA: "BELEM"
+  ComplMunicipio_PA: "${SPACE * 25}"
+
+##PE
+  CdMunicipioCredor_PE: "261160"
+  DsCEPCredor_PE: "50040100"  
+  CdMunicipioDevedor_PE: "261160"
+  DsCEPDevedor_PE: "50970300"
+  NomeMunicipioEsperado_PE: "RECIFE"
+  ComplMunicipio_PE: "${SPACE * 24}"
+
+#PI
+  CdMunicipioCredor_PI: "221100"
+  DsCEPCredor_PI: "64003490"  
+  CdMunicipioDevedor_PI: "221100"
+  DsCEPDevedor_PI: "64007160"
+  NomeMunicipioEsperado_PI: "TERESINA"
+  ComplMunicipio_PI: "${SPACE * 22}"
+
+##PB
+  CdMunicipioCredor_PB: "250750"
+  DsCEPCredor_PB: "58040261"  
+  CdMunicipioDevedor_PB: "250750"
+  DsCEPDevedor_PB: "58073345"
+  NomeMunicipioEsperado_PB: "JOAO PESSOA"
+  ComplMunicipio_PB: "${SPACE * 19}"
+
+##PR
+  CdMunicipioCredor_PR: "410690"
+  DsCEPCredor_PR: "80520690"  
+  CdMunicipioDevedor_PR: "410690"
+  DsCEPDevedor_PR: "81750240"
+  NomeMunicipioEsperado_PR: "CURITIBA"
+  ComplMunicipio_PR: "${SPACE * 22}"
+
+##RJ
+  CdMunicipioCredor_RJ: "330455"
+  DsCEPCredor_RJ: "20230010"
+  CdMunicipioDevedor_RJ: "330455"
+  DsCEPDevedor_RJ: "22020002"
+  NomeMunicipioEsperado_RJ: "RIO DE JANEIRO"
+  ComplMunicipio_RJ: "${SPACE * 16}"
+
+##RN
+  CdMunicipioCredor_RN: "240810"
+  DsCEPCredor_RN: "59122262"  
+  CdMunicipioDevedor_RN: "240810"
+  DsCEPDevedor_RN: "59139542"
+  NomeMunicipioEsperado_RN: "NATAL"
+  ComplMunicipio_RN: "${SPACE * 25}"
+
+##RO
+  CdMunicipioCredor_RO: "110020"
+  DsCEPCredor_RO: "69301130"  
+  CdMunicipioDevedor_RO: "110020"
+  DsCEPDevedor_RO: "69309366"
+  NomeMunicipioEsperado_RO: "PORTO VELHO"
+  ComplMunicipio_RO: "${SPACE * 19}"
+
+##RR
+  CdMunicipioCredor_RR: "140010"
+  DsCEPCredor_RR: "69301130"  
+  CdMunicipioDevedor_RR: "140010"
+  DsCEPDevedor_RR: "69309366"
+  NomeMunicipioEsperado_RR: "BOA VISTA"
+  ComplMunicipio_RR: "${SPACE * 21}"
+
+##RS
+  CdMunicipioCredor_RS: "431490"
+  DsCEPCredor_RS: "90040000"  
+  CdMunicipioDevedor_RS: "431490"
+  DsCEPDevedor_RS: "90010180"
+  NomeMunicipioEsperado_RS: "PORTO ALEGRE"
+  ComplMunicipio_RS: "${SPACE * 18}"
+
+##SE
+  CdMunicipioCredor_SE: "280030"
+  DsCEPCredor_SE: "49010900"  
+  CdMunicipioDevedor_SE: "280030"
+  DsCEPDevedor_SE: "49010909"
+  NomeMunicipioEsperado_SE: "ARACAJU"
+  ComplMunicipio_SE: "${SPACE * 23}"
+
+##SC
+  CdMunicipioCredor_SC: "420540"
+  DsCEPCredor_SC: "88015710"  
+  CdMunicipioDevedor_SC: "420540"
+  DsCEPDevedor_SC: "88010000"
+  NomeMunicipioEsperado_SC: "FLORIANOPOLIS"
+  ComplMunicipio_SC: "${SPACE * 17}"
+
+##SP
+  CdMunicipioCredor_SP: "355030"
+  DsCEPCredor_SP: "04547005"  
+  CdMunicipioDevedor_SP: "355030"
+  DsCEPDevedor_SP: "01034030"
+  NomeMunicipioEsperado_SP: "SAO PAULO"
+  ComplMunicipio_SP: "${SPACE * 21}"
+
+##TO
+  CdMunicipioCredor_TO: "172100"
+  DsCEPCredor_TO: "77001020"  
+  CdMunicipioDevedor_TO: "172100"
+  DsCEPDevedor_TO: "77001043"
+  NomeMunicipioEsperado_TO: "PALMAS"
+  ComplMunicipio_TO: "${SPACE * 25}"
